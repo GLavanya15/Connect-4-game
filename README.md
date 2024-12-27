@@ -43,7 +43,7 @@ python connect_four.py
 
 ## Game Preview 🖼️
 
-<img src="https://github.com/user-attachments/assets/5cfe83f5-e7d2-46d9-8f54-4162520851af" alt="Screenshot" width="500" />
+<img src="https://github.com/user-attachments/assets/5cfe83f5-e7d2-46d9-8f54-4162520851af" alt="Screenshot" width="300" />
 
-<img src="https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648" alt="Screenshot" width="500" />
+<img src="https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648" alt="Screenshot" width="300" />
 
