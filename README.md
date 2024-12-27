@@ -41,9 +41,9 @@ python connect_four.py
 ```
 ## Game Preview 🖼️
 
-<img src="https://github.com/user-attachments/assets/45b5a047-78dd-45d8-9eda-7a9fa7a9bc36" alt="Screenshot" width="300" />
+-<img src="https://github.com/user-attachments/assets/45b5a047-78dd-45d8-9eda-7a9fa7a9bc36" alt="Screenshot" width="300" /> 
 
-<img src="https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648" alt="Screenshot" width="300" />
+-<img src="https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648" alt="Screenshot" width="300" />
 
 
 
