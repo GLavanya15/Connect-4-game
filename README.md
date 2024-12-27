@@ -39,8 +39,11 @@ Run the game:
 Copy code
 python connect_four.py
 ```
-Game Preview 🖼️
+## Game Preview 🖼️
 
-![Screenshot (381)](https://github.com/user-attachments/assets/5cfe83f5-e7d2-46d9-8f54-4162520581af)
-![Screenshot (382)](https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648)
+## Game Preview 🖼️
+
+<img src="https://github.com/user-attachments/assets/5cfe83f5-e7d2-46d9-8f54-4162520851af" alt="Screenshot" width="500" />
+
+<img src="https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648" alt="Screenshot" width="500" />
 
