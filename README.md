@@ -21,20 +21,26 @@ This project is a digital implementation of the classic **Connect Four** game, b
 Install Pygame using pip:
 ```bash
 pip install pygame
+```
 
 Getting Started 🚧
 Clone this repository:
-bash
+```bash
 Copy code
 git clone <repository-url>
+```
 Navigate to the project directory:
-bash
+```bash
 Copy code
 cd connect-four
+```
 Run the game:
-bash
+```bash
 Copy code
 python connect_four.py
+```
 Game Preview 🖼️
 
-Replace this placeholder with an actual screenshot of your game.
+![Screenshot (381)](https://github.com/user-attachments/assets/5cfe83f5-e7d2-46d9-8f54-4162520581af)
+![Screenshot (382)](https://github.com/user-attachments/assets/7a8a0e42-a3a7-4982-bb90-0891e7c63648)
+
